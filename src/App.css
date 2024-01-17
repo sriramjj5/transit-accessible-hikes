@@ -1,0 +1,19 @@
+.inputContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  margin: 20px;
+}
+
+#address {
+  max-width: 30%;
+}
+
+#datetime {
+  max-width: 15%;
+}
+
+#submit {
+  margin: 5px;
+}
